@@ -1,6 +1,7 @@
 #include "add.h"
 
-int add(int x, int y)
+int add(int x, int y)/////ksh ¼öÁ¤
+
 {
-	return 0;
+	return x+y;
 }

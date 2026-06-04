@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-#include "add.h"
-
-int add(int x, int y)
-{
-	return 0;
-}
-=======
 #include "add.h"
 
 int add(int x, int y)/////ksh 수정
@@ -13,4 +5,4 @@ int add(int x, int y)/////ksh 수정
 {
 	return x+y;
 }
->>>>>>> origin/ksh
+
